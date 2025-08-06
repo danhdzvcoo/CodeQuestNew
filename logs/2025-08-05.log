@@ -1,0 +1,447 @@
+{"timestamp":"2025-08-05T16:48:13.696Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-05T16:48:13.700Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-05T16:48:13.704Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-05T16:48:13.702Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-05T16:48:13.709Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-05T16:48:13.711Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-05T16:48:13.715Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-05T16:48:13.718Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-05T16:48:13.701Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-05T16:48:13.719Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-05T16:48:13.722Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-05T16:48:13.723Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-05T16:48:13.722Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-05T16:48:13.725Z","level":"INFO","message":"🧘‍♂️ Cultivation Service initialized","data":null}
+{"timestamp":"2025-08-05T16:48:13.726Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-05T16:48:13.727Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-05T16:48:13.728Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-05T16:48:13.764Z","level":"ERROR","message":"Error cleaning old logs:","data":{"errno":-4058,"code":"ENOENT","syscall":"scandir","path":"C:\\Users\\Acer\\Downloads\\CodeQuest\\logs"}}
+{"timestamp":"2025-08-05T16:48:13.729Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-05T16:48:14.970Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-05T16:48:15.051Z","level":"INFO","message":"🚀 Tu Tiên Bot đã sẵn sàng!","data":null}
+{"timestamp":"2025-08-05T16:48:15.052Z","level":"INFO","message":"👤 Đăng nhập thành công: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-05T16:48:15.052Z","level":"INFO","message":"👥 Phục vụ 2 người dùng","data":null}
+{"timestamp":"2025-08-05T16:48:15.079Z","level":"INFO","message":"📊 Thống kê: 0 users, 0 active, 0 đang tu luyện","data":null}
+{"timestamp":"2025-08-05T16:48:15.079Z","level":"INFO","message":"⏰ Đã khởi tạo tất cả periodic tasks","data":null}
+{"timestamp":"2025-08-05T16:48:15.053Z","level":"INFO","message":"📡 Ping: -1ms","data":null}
+{"timestamp":"2025-08-05T16:48:15.052Z","level":"INFO","message":"🌐 Kết nối với 1 servers","data":null}
+{"timestamp":"2025-08-05T16:48:15.081Z","level":"INFO","message":"🧹 Cleaned 0 expired cultivation sessions","data":null}
+{"timestamp":"2025-08-05T16:48:15.080Z","level":"INFO","message":"🔧 Bắt đầu maintenance khởi động...","data":null}
+{"timestamp":"2025-08-05T16:48:15.081Z","level":"INFO","message":"🔄 Reset cultivation for 0 players","data":null}
+{"timestamp":"2025-08-05T16:48:15.083Z","level":"INFO","message":"✅ Startup maintenance hoàn thành","data":null}
+{"timestamp":"2025-08-05T16:48:15.082Z","level":"INFO","message":"💾 Saved all player data","data":null}
+{"timestamp":"2025-08-05T16:48:15.083Z","level":"INFO","message":"✅ Tất cả hệ thống đã được khởi tạo thành công!","data":null}
+{"timestamp":"2025-08-05T16:48:15.083Z","level":"INFO","message":"🎮 Bot đang hoạt động và sẵn sàng phục vụ!","data":null}
+{"timestamp":"2025-08-05T16:49:05.179Z","level":"INFO","message":"Command executed: dk by khanhdz (694925660640116776) in Tiên Đạo Tranh Phong","data":null}
+{"timestamp":"2025-08-05T16:49:19.799Z","level":"INFO","message":"New player registered: khanhdz (694925660640116776)","data":null}
+{"timestamp":"2025-08-05T16:49:40.799Z","level":"INFO","message":"Command executed: admin by khanhdz (694925660640116776) in Tiên Đạo Tranh Phong","data":null}
+{"timestamp":"2025-08-05T16:50:03.776Z","level":"INFO","message":"Command executed: admin by khanhdz (694925660640116776) in Tiên Đạo Tranh Phong","data":null}
+{"timestamp":"2025-08-05T16:54:47.232Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-05T16:54:47.235Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-05T16:54:47.238Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-05T16:54:47.242Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-05T16:54:47.240Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-05T16:54:47.245Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-05T16:54:47.246Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-05T16:54:47.236Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-05T16:54:47.243Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-05T16:54:47.247Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-05T16:54:47.252Z","level":"INFO","message":"🧘‍♂️ Cultivation Service initialized","data":null}
+{"timestamp":"2025-08-05T16:54:47.249Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-05T16:54:47.249Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-05T16:54:47.252Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-05T16:54:47.253Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-05T16:54:47.254Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-05T16:54:47.250Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-05T16:54:47.255Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-05T16:54:48.436Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-05T16:54:48.449Z","level":"INFO","message":"🚀 Tu Tiên Bot đã sẵn sàng!","data":null}
+{"timestamp":"2025-08-05T16:54:48.449Z","level":"INFO","message":"👤 Đăng nhập thành công: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-05T16:54:48.449Z","level":"INFO","message":"👥 Phục vụ 2 người dùng","data":null}
+{"timestamp":"2025-08-05T16:54:48.451Z","level":"ERROR","message":"Lỗi khi lấy thống kê:","data":{}}
+{"timestamp":"2025-08-05T16:54:48.449Z","level":"INFO","message":"🌐 Kết nối với 1 servers","data":null}
+{"timestamp":"2025-08-05T16:54:48.451Z","level":"INFO","message":"⏰ Đã khởi tạo tất cả periodic tasks","data":null}
+{"timestamp":"2025-08-05T16:54:48.450Z","level":"INFO","message":"📡 Ping: -1ms","data":null}
+{"timestamp":"2025-08-05T16:54:48.451Z","level":"INFO","message":"🔧 Bắt đầu maintenance khởi động...","data":null}
+{"timestamp":"2025-08-05T16:54:48.452Z","level":"INFO","message":"🔄 Reset cultivation for 1 players","data":null}
+{"timestamp":"2025-08-05T16:54:48.453Z","level":"INFO","message":"💾 Saved all player data","data":null}
+{"timestamp":"2025-08-05T16:54:48.452Z","level":"INFO","message":"🧹 Cleaned 0 expired cultivation sessions","data":null}
+{"timestamp":"2025-08-05T16:54:48.453Z","level":"INFO","message":"✅ Tất cả hệ thống đã được khởi tạo thành công!","data":null}
+{"timestamp":"2025-08-05T16:54:48.452Z","level":"INFO","message":"🔄 Reset cultivation count for 1 players","data":null}
+{"timestamp":"2025-08-05T16:54:48.453Z","level":"INFO","message":"🎮 Bot đang hoạt động và sẵn sàng phục vụ!","data":null}
+{"timestamp":"2025-08-05T16:54:48.453Z","level":"INFO","message":"✅ Startup maintenance hoàn thành","data":null}
+{"timestamp":"2025-08-05T16:54:58.183Z","level":"INFO","message":"Command executed: tuluyen by khanhdz (694925660640116776) in Tiên Đạo Tranh Phong","data":null}
+{"timestamp":"2025-08-05T16:54:58.184Z","level":"ERROR","message":"Error executing command tuluyen:","data":{}}
+{"timestamp":"2025-08-05T16:55:06.484Z","level":"INFO","message":"Command executed: dotpha by khanhdz (694925660640116776) in Tiên Đạo Tranh Phong","data":null}
+{"timestamp":"2025-08-05T16:55:06.485Z","level":"ERROR","message":"Error executing command dotpha:","data":{}}
+{"timestamp":"2025-08-05T16:55:30.997Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-05T16:55:31.000Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-05T16:55:31.002Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-05T16:55:31.003Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-05T16:55:31.004Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-05T16:55:31.005Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-05T16:55:31.007Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-05T16:55:31.009Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-05T16:55:31.014Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-05T16:55:31.015Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-05T16:55:31.017Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-05T16:55:31.017Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-05T16:55:31.018Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-05T16:55:31.019Z","level":"INFO","message":"🧘‍♂️ Cultivation Service initialized","data":null}
+{"timestamp":"2025-08-05T16:55:31.020Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-05T16:55:31.021Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-05T16:55:31.021Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-05T16:55:31.022Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-05T16:55:32.177Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-05T16:55:32.201Z","level":"INFO","message":"🚀 Tu Tiên Bot đã sẵn sàng!","data":null}
+{"timestamp":"2025-08-05T16:55:32.201Z","level":"INFO","message":"👤 Đăng nhập thành công: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-05T16:55:32.202Z","level":"INFO","message":"👥 Phục vụ 2 người dùng","data":null}
+{"timestamp":"2025-08-05T16:55:32.203Z","level":"INFO","message":"⏰ Đã khởi tạo tất cả periodic tasks","data":null}
+{"timestamp":"2025-08-05T16:55:32.202Z","level":"INFO","message":"📡 Ping: -1ms","data":null}
+{"timestamp":"2025-08-05T16:55:32.204Z","level":"INFO","message":"🧹 Cleaned 0 expired cultivation sessions","data":null}
+{"timestamp":"2025-08-05T16:55:32.204Z","level":"INFO","message":"🔧 Bắt đầu maintenance khởi động...","data":null}
+{"timestamp":"2025-08-05T16:55:32.204Z","level":"INFO","message":"🔄 Reset cultivation count for 1 players","data":null}
+{"timestamp":"2025-08-05T16:55:32.203Z","level":"ERROR","message":"Lỗi khi lấy thống kê:","data":{}}
+{"timestamp":"2025-08-05T16:55:32.201Z","level":"INFO","message":"🌐 Kết nối với 1 servers","data":null}
+{"timestamp":"2025-08-05T16:55:32.205Z","level":"INFO","message":"🔄 Reset cultivation for 1 players","data":null}
+{"timestamp":"2025-08-05T16:55:32.205Z","level":"INFO","message":"🎮 Bot đang hoạt động và sẵn sàng phục vụ!","data":null}
+{"timestamp":"2025-08-05T16:55:32.205Z","level":"INFO","message":"✅ Tất cả hệ thống đã được khởi tạo thành công!","data":null}
+{"timestamp":"2025-08-05T16:55:32.205Z","level":"INFO","message":"💾 Saved all player data","data":null}
+{"timestamp":"2025-08-05T16:55:32.205Z","level":"INFO","message":"✅ Startup maintenance hoàn thành","data":null}
+{"timestamp":"2025-08-05T16:55:35.682Z","level":"INFO","message":"Command executed: admin by khanhdz (694925660640116776) in Tiên Đạo Tranh Phong","data":null}
+{"timestamp":"2025-08-05T16:55:35.682Z","level":"ERROR","message":"Error in admin command:","data":{"message":"Cannot read properties of undefined (reading 'config')","stack":"TypeError: Cannot read properties of undefined (reading 'config')\n    at Object.execute (C:\\Users\\Acer\\Downloads\\CodeQuest\\commands\\admin.js:19:58)\n    at Object.execute (C:\\Users\\Acer\\Downloads\\CodeQuest\\events\\messageCreate.js:58:27)\n    at Client.<anonymous> (C:\\Users\\Acer\\Downloads\\CodeQuest\\index.js:48:50)\n    at Client.emit (node:events:518:28)\n    at MessageCreateAction.handle (C:\\Users\\Acer\\Downloads\\CodeQuest\\node_modules\\discord.js\\src\\client\\actions\\MessageCreate.js:32:14)\n    at module.exports [as MESSAGE_CREATE] (C:\\Users\\Acer\\Downloads\\CodeQuest\\node_modules\\discord.js\\src\\client\\websocket\\handlers\\MESSAGE_CREATE.js:4:32)\n    at WebSocketManager.handlePacket (C:\\Users\\Acer\\Downloads\\CodeQuest\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:351:31)\n    at WebSocketManager.<anonymous> (C:\\Users\\Acer\\Downloads\\CodeQuest\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:235:12)\n    at WebSocketManager.emit (C:\\Users\\Acer\\Downloads\\CodeQuest\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.cjs:287:31)\n    at WebSocketShard.<anonymous> (C:\\Users\\Acer\\Downloads\\CodeQuest\\node_modules\\@discordjs\\ws\\dist\\index.js:1190:51)","name":"TypeError"}}
+{"timestamp":"2025-08-05T16:56:16.350Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-05T16:56:16.353Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-05T16:56:16.354Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-05T16:56:16.355Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-05T16:56:16.358Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-05T16:56:16.359Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-05T16:56:16.361Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-05T16:56:16.363Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-05T16:56:16.367Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-05T16:56:16.368Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-05T16:56:16.371Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-05T16:56:16.371Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-05T16:56:16.372Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-05T16:56:16.374Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-05T16:56:16.375Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-05T16:56:16.376Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-05T16:56:16.377Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-05T16:56:17.545Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-05T16:56:17.586Z","level":"INFO","message":"🚀 Tu Tiên Bot đã sẵn sàng!","data":null}
+{"timestamp":"2025-08-05T16:56:17.586Z","level":"INFO","message":"👤 Đăng nhập thành công: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-05T16:56:17.587Z","level":"INFO","message":"📡 Ping: -1ms","data":null}
+{"timestamp":"2025-08-05T16:56:17.589Z","level":"ERROR","message":"Lỗi khi lấy thống kê:","data":{}}
+{"timestamp":"2025-08-05T16:56:17.589Z","level":"INFO","message":"⏰ Đã khởi tạo tất cả periodic tasks","data":null}
+{"timestamp":"2025-08-05T16:56:17.589Z","level":"INFO","message":"🔧 Bắt đầu maintenance khởi động...","data":null}
+{"timestamp":"2025-08-05T16:56:17.590Z","level":"INFO","message":"🔄 Reset cultivation for 1 players","data":null}
+{"timestamp":"2025-08-05T16:56:17.590Z","level":"INFO","message":"🧹 Cleaned 0 expired cultivation sessions","data":null}
+{"timestamp":"2025-08-05T16:56:17.586Z","level":"INFO","message":"🌐 Kết nối với 1 servers","data":null}
+{"timestamp":"2025-08-05T16:56:17.591Z","level":"INFO","message":"✅ Startup maintenance hoàn thành","data":null}
+{"timestamp":"2025-08-05T16:56:17.591Z","level":"INFO","message":"✅ Tất cả hệ thống đã được khởi tạo thành công!","data":null}
+{"timestamp":"2025-08-05T16:56:17.590Z","level":"INFO","message":"💾 Saved all player data","data":null}
+{"timestamp":"2025-08-05T16:56:17.587Z","level":"INFO","message":"👥 Phục vụ 2 người dùng","data":null}
+{"timestamp":"2025-08-05T16:56:17.590Z","level":"INFO","message":"🔄 Reset cultivation count for 1 players","data":null}
+{"timestamp":"2025-08-05T16:56:17.591Z","level":"INFO","message":"🎮 Bot đang hoạt động và sẵn sàng phục vụ!","data":null}
+{"timestamp":"2025-08-05T16:56:22.975Z","level":"INFO","message":"Command executed: tuluyen by khanhdz (694925660640116776) in Tiên Đạo Tranh Phong","data":null}
+{"timestamp":"2025-08-05T16:56:22.976Z","level":"ERROR","message":"Error executing command tuluyen:","data":{}}
+{"timestamp":"2025-08-05T16:56:34.706Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-05T16:56:34.710Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-05T16:56:34.712Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-05T16:56:34.711Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-05T16:56:34.717Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-05T16:56:34.715Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-05T16:56:34.723Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-05T16:56:34.719Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-05T16:56:34.729Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-05T16:56:34.730Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-05T16:56:34.732Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-05T16:56:34.732Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-05T16:56:34.734Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-05T16:56:34.735Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-05T16:56:34.736Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-05T16:56:34.737Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-05T16:56:34.738Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-05T16:56:35.957Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-05T16:56:35.989Z","level":"INFO","message":"🚀 Tu Tiên Bot đã sẵn sàng!","data":null}
+{"timestamp":"2025-08-05T16:56:35.989Z","level":"INFO","message":"👤 Đăng nhập thành công: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-05T16:56:35.989Z","level":"INFO","message":"🌐 Kết nối với 1 servers","data":null}
+{"timestamp":"2025-08-05T16:56:35.989Z","level":"INFO","message":"👥 Phục vụ 2 người dùng","data":null}
+{"timestamp":"2025-08-05T16:56:35.991Z","level":"ERROR","message":"Lỗi khi lấy thống kê:","data":{}}
+{"timestamp":"2025-08-05T16:56:35.992Z","level":"INFO","message":"⏰ Đã khởi tạo tất cả periodic tasks","data":null}
+{"timestamp":"2025-08-05T16:56:35.993Z","level":"INFO","message":"🧹 Cleaned 0 expired cultivation sessions","data":null}
+{"timestamp":"2025-08-05T16:56:35.992Z","level":"INFO","message":"🔧 Bắt đầu maintenance khởi động...","data":null}
+{"timestamp":"2025-08-05T16:56:35.994Z","level":"INFO","message":"🔄 Reset cultivation for 1 players","data":null}
+{"timestamp":"2025-08-05T16:56:35.994Z","level":"INFO","message":"🔄 Reset cultivation count for 1 players","data":null}
+{"timestamp":"2025-08-05T16:56:35.995Z","level":"INFO","message":"✅ Tất cả hệ thống đã được khởi tạo thành công!","data":null}
+{"timestamp":"2025-08-05T16:56:35.994Z","level":"INFO","message":"💾 Saved all player data","data":null}
+{"timestamp":"2025-08-05T16:56:35.995Z","level":"INFO","message":"🎮 Bot đang hoạt động và sẵn sàng phục vụ!","data":null}
+{"timestamp":"2025-08-05T16:56:35.990Z","level":"INFO","message":"📡 Ping: -1ms","data":null}
+{"timestamp":"2025-08-05T16:56:35.995Z","level":"INFO","message":"✅ Startup maintenance hoàn thành","data":null}
+{"timestamp":"2025-08-05T16:56:38.913Z","level":"INFO","message":"Command executed: tuluyen by khanhdz (694925660640116776) in Tiên Đạo Tranh Phong","data":null}
+{"timestamp":"2025-08-05T16:56:38.915Z","level":"ERROR","message":"Error in tuluyen command:","data":{"message":"Cannot read properties of undefined (reading 'players')","stack":"TypeError: Cannot read properties of undefined (reading 'players')\n    at getPlayer (C:\\Users\\Acer\\Downloads\\CodeQuest\\player.js:46:19)\n    at Object.execute (C:\\Users\\Acer\\Downloads\\CodeQuest\\commands\\tuluyen.js:17:34)\n    at Object.execute (C:\\Users\\Acer\\Downloads\\CodeQuest\\events\\messageCreate.js:58:27)\n    at Client.<anonymous> (C:\\Users\\Acer\\Downloads\\CodeQuest\\index.js:48:50)\n    at Client.emit (node:events:518:28)\n    at MessageCreateAction.handle (C:\\Users\\Acer\\Downloads\\CodeQuest\\node_modules\\discord.js\\src\\client\\actions\\MessageCreate.js:32:14)\n    at module.exports [as MESSAGE_CREATE] (C:\\Users\\Acer\\Downloads\\CodeQuest\\node_modules\\discord.js\\src\\client\\websocket\\handlers\\MESSAGE_CREATE.js:4:32)\n    at WebSocketManager.handlePacket (C:\\Users\\Acer\\Downloads\\CodeQuest\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:351:31)\n    at WebSocketManager.<anonymous> (C:\\Users\\Acer\\Downloads\\CodeQuest\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:235:12)\n    at WebSocketManager.emit (C:\\Users\\Acer\\Downloads\\CodeQuest\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.cjs:287:31)","name":"TypeError"}}
+{"timestamp":"2025-08-05T16:57:20.350Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-05T16:57:20.356Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-05T16:57:20.354Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-05T16:57:20.358Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-05T16:57:20.365Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-05T16:57:20.366Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-05T16:57:20.361Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-05T16:57:20.368Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-05T16:57:20.370Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-05T16:57:20.370Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-05T16:57:20.373Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-05T16:57:20.374Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-05T16:57:20.375Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-05T16:57:20.376Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-05T16:57:20.377Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-05T16:57:20.378Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-05T16:57:20.380Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-05T16:57:21.542Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-05T16:57:21.564Z","level":"INFO","message":"🚀 Tu Tiên Bot đã sẵn sàng!","data":null}
+{"timestamp":"2025-08-05T16:57:21.565Z","level":"INFO","message":"👤 Đăng nhập thành công: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-05T16:57:21.566Z","level":"ERROR","message":"Lỗi khi lấy thống kê:","data":{}}
+{"timestamp":"2025-08-05T16:57:21.567Z","level":"INFO","message":"⏰ Đã khởi tạo tất cả periodic tasks","data":null}
+{"timestamp":"2025-08-05T16:57:21.565Z","level":"INFO","message":"👥 Phục vụ 2 người dùng","data":null}
+{"timestamp":"2025-08-05T16:57:21.568Z","level":"INFO","message":"🔄 Reset cultivation for [object Promise] players","data":null}
+{"timestamp":"2025-08-05T16:57:21.567Z","level":"INFO","message":"🧹 Cleaned [object Promise] expired cultivation sessions","data":null}
+{"timestamp":"2025-08-05T16:57:21.567Z","level":"INFO","message":"🔧 Bắt đầu maintenance khởi động...","data":null}
+{"timestamp":"2025-08-05T16:57:21.568Z","level":"INFO","message":"🎮 Bot đang hoạt động và sẵn sàng phục vụ!","data":null}
+{"timestamp":"2025-08-05T16:57:21.568Z","level":"ERROR","message":"❌ Lỗi trong startup maintenance:","data":{}}
+{"timestamp":"2025-08-05T16:57:21.568Z","level":"INFO","message":"✅ Tất cả hệ thống đã được khởi tạo thành công!","data":null}
+{"timestamp":"2025-08-05T16:57:21.565Z","level":"INFO","message":"🌐 Kết nối với 1 servers","data":null}
+{"timestamp":"2025-08-05T16:57:21.565Z","level":"INFO","message":"📡 Ping: -1ms","data":null}
+{"timestamp":"2025-08-05T16:57:31.635Z","level":"INFO","message":"Command executed: tuluyen by khanhdz (694925660640116776) in Tiên Đạo Tranh Phong","data":null}
+{"timestamp":"2025-08-05T16:57:31.636Z","level":"ERROR","message":"❌ Lỗi khởi tạo dữ liệu người chơi:","data":{}}
+{"timestamp":"2025-08-05T16:57:31.637Z","level":"ERROR","message":"Error in tuluyen command:","data":{"message":"getRealms is not a function","stack":"TypeError: getRealms is not a function\n    at PlayerService.validatePlayerData (C:\\Users\\Acer\\Downloads\\CodeQuest\\player.js:47:24)\n    at PlayerService.initializePlayerData (C:\\Users\\Acer\\Downloads\\CodeQuest\\player.js:23:51)\n    at async PlayerService.getPlayer (C:\\Users\\Acer\\Downloads\\CodeQuest\\player.js:177:13)\n    at async Object.execute (C:\\Users\\Acer\\Downloads\\CodeQuest\\commands\\tuluyen.js:17:28)\n    at async Object.execute (C:\\Users\\Acer\\Downloads\\CodeQuest\\events\\messageCreate.js:58:13)","name":"TypeError"}}
+{"timestamp":"2025-08-05T16:57:32.294Z","level":"ERROR","message":"Error executing command tuluyen:","data":{}}
+{"timestamp":"2025-08-05T16:58:09.207Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-05T16:58:09.210Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-05T16:58:09.210Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-05T16:58:09.211Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-05T16:58:09.213Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-05T16:58:09.214Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-05T16:58:09.215Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-05T16:58:09.217Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-05T16:58:09.221Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-05T16:58:09.221Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-05T16:58:09.223Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-05T16:58:09.223Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-05T16:58:09.225Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-05T16:58:09.226Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-05T16:58:09.227Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-05T16:58:09.228Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-05T16:58:09.229Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-05T16:58:10.410Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-05T16:58:10.852Z","level":"INFO","message":"🚀 Tu Tiên Bot đã sẵn sàng!","data":null}
+{"timestamp":"2025-08-05T16:58:10.852Z","level":"INFO","message":"👤 Đăng nhập thành công: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-05T16:58:10.853Z","level":"INFO","message":"📡 Ping: -1ms","data":null}
+{"timestamp":"2025-08-05T16:58:10.854Z","level":"ERROR","message":"Lỗi khi lấy thống kê:","data":{}}
+{"timestamp":"2025-08-05T16:58:10.854Z","level":"INFO","message":"⏰ Đã khởi tạo tất cả periodic tasks","data":null}
+{"timestamp":"2025-08-05T16:58:10.855Z","level":"INFO","message":"🔧 Bắt đầu maintenance khởi động...","data":null}
+{"timestamp":"2025-08-05T16:58:10.855Z","level":"INFO","message":"🧹 Cleaned [object Promise] expired cultivation sessions","data":null}
+{"timestamp":"2025-08-05T16:58:10.855Z","level":"INFO","message":"🔄 Reset cultivation for [object Promise] players","data":null}
+{"timestamp":"2025-08-05T16:58:10.855Z","level":"ERROR","message":"❌ Lỗi trong startup maintenance:","data":{}}
+{"timestamp":"2025-08-05T16:58:10.856Z","level":"INFO","message":"✅ Tất cả hệ thống đã được khởi tạo thành công!","data":null}
+{"timestamp":"2025-08-05T16:58:10.852Z","level":"INFO","message":"👥 Phục vụ 2 người dùng","data":null}
+{"timestamp":"2025-08-05T16:58:10.852Z","level":"INFO","message":"🌐 Kết nối với 1 servers","data":null}
+{"timestamp":"2025-08-05T16:58:10.856Z","level":"INFO","message":"🎮 Bot đang hoạt động và sẵn sàng phục vụ!","data":null}
+{"timestamp":"2025-08-05T16:58:12.820Z","level":"INFO","message":"Command executed: dk by khanhdz (694925660640116776) in Tiên Đạo Tranh Phong","data":null}
+{"timestamp":"2025-08-05T16:58:12.821Z","level":"ERROR","message":"Error in dk command:","data":{}}
+{"timestamp":"2025-08-05T16:58:12.823Z","level":"ERROR","message":"Error executing command dk:","data":{}}
+{"timestamp":"2025-08-05T16:58:16.632Z","level":"INFO","message":"Command executed: tuluyen by khanhdz (694925660640116776) in Tiên Đạo Tranh Phong","data":null}
+{"timestamp":"2025-08-05T16:58:16.633Z","level":"INFO","message":"📊 Đã tải 1 người chơi từ file","data":null}
+{"timestamp":"2025-08-05T16:58:16.633Z","level":"INFO","message":"✅ Hệ thống người chơi đã được khởi tạo","data":null}
+{"timestamp":"2025-08-05T16:58:17.256Z","level":"INFO","message":"Cultivation: menu_viewed","data":{"userId":"694925660640116776","realm":0,"sessionsToday":0,"isCurrentlyCultivating":false}}
+{"timestamp":"2025-08-05T16:58:17.257Z","level":"ERROR","message":"Error executing command tuluyen:","data":{}}
+{"timestamp":"2025-08-05T17:00:45.666Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-05T17:00:45.669Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-05T17:00:45.672Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-05T17:00:45.671Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-05T17:00:45.675Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-05T17:00:45.673Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-05T17:00:45.679Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-05T17:00:45.676Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-05T17:00:45.684Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-05T17:00:45.685Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-05T17:00:45.687Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-05T17:00:45.687Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-05T17:00:45.689Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-05T17:00:45.688Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-05T17:00:45.690Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-05T17:00:45.690Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-05T17:00:45.691Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-05T17:00:48.683Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-05T17:00:48.921Z","level":"INFO","message":"🚀 Tu Tiên Bot đã sẵn sàng!","data":null}
+{"timestamp":"2025-08-05T17:00:48.921Z","level":"INFO","message":"👤 Đăng nhập thành công: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-05T17:00:48.923Z","level":"INFO","message":"⏰ Đã khởi tạo tất cả periodic tasks","data":null}
+{"timestamp":"2025-08-05T17:00:48.924Z","level":"INFO","message":"🔧 Bắt đầu maintenance khởi động...","data":null}
+{"timestamp":"2025-08-05T17:00:48.924Z","level":"INFO","message":"🧹 Cleaned [object Promise] expired cultivation sessions","data":null}
+{"timestamp":"2025-08-05T17:00:48.924Z","level":"INFO","message":"🔄 Reset cultivation for [object Promise] players","data":null}
+{"timestamp":"2025-08-05T17:00:48.924Z","level":"ERROR","message":"❌ Lỗi trong startup maintenance:","data":{}}
+{"timestamp":"2025-08-05T17:00:48.924Z","level":"INFO","message":"✅ Tất cả hệ thống đã được khởi tạo thành công!","data":null}
+{"timestamp":"2025-08-05T17:00:48.924Z","level":"INFO","message":"🎮 Bot đang hoạt động và sẵn sàng phục vụ!","data":null}
+{"timestamp":"2025-08-05T17:00:48.922Z","level":"INFO","message":"👥 Phục vụ 2 người dùng","data":null}
+{"timestamp":"2025-08-05T17:00:48.922Z","level":"INFO","message":"📡 Ping: 242ms","data":null}
+{"timestamp":"2025-08-05T17:00:48.923Z","level":"ERROR","message":"Lỗi khi lấy thống kê:","data":{}}
+{"timestamp":"2025-08-05T17:00:48.921Z","level":"INFO","message":"🌐 Kết nối với 1 servers","data":null}
+{"timestamp":"2025-08-05T17:01:16.210Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-05T17:01:16.216Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-05T17:01:16.214Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-05T17:01:16.217Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-05T17:01:16.221Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-05T17:01:16.231Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-05T17:01:16.224Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-05T17:01:16.219Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-05T17:01:16.236Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-05T17:01:16.237Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-05T17:01:16.240Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-05T17:01:16.241Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-05T17:01:16.242Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-05T17:01:16.244Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-05T17:01:16.245Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-05T17:01:16.246Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-05T17:01:16.247Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-05T17:01:17.721Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-05T17:01:17.746Z","level":"INFO","message":"👤 Đăng nhập thành công: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-05T17:01:17.745Z","level":"INFO","message":"🚀 Tu Tiên Bot đã sẵn sàng!","data":null}
+{"timestamp":"2025-08-05T17:01:17.746Z","level":"INFO","message":"👥 Phục vụ 2 người dùng","data":null}
+{"timestamp":"2025-08-05T17:01:17.746Z","level":"INFO","message":"📡 Ping: -1ms","data":null}
+{"timestamp":"2025-08-05T17:01:17.747Z","level":"INFO","message":"⏰ Đã khởi tạo tất cả periodic tasks","data":null}
+{"timestamp":"2025-08-05T17:01:17.747Z","level":"ERROR","message":"Lỗi khi lấy thống kê:","data":{}}
+{"timestamp":"2025-08-05T17:01:17.746Z","level":"INFO","message":"🌐 Kết nối với 1 servers","data":null}
+{"timestamp":"2025-08-05T17:01:17.748Z","level":"INFO","message":"🔧 Bắt đầu maintenance khởi động...","data":null}
+{"timestamp":"2025-08-05T17:01:17.748Z","level":"INFO","message":"✅ Tất cả hệ thống đã được khởi tạo thành công!","data":null}
+{"timestamp":"2025-08-05T17:01:17.748Z","level":"INFO","message":"🔄 Reset cultivation for [object Promise] players","data":null}
+{"timestamp":"2025-08-05T17:01:17.748Z","level":"INFO","message":"🎮 Bot đang hoạt động và sẵn sàng phục vụ!","data":null}
+{"timestamp":"2025-08-05T17:01:17.748Z","level":"INFO","message":"🧹 Cleaned [object Promise] expired cultivation sessions","data":null}
+{"timestamp":"2025-08-05T17:01:17.748Z","level":"ERROR","message":"❌ Lỗi trong startup maintenance:","data":{}}
+{"timestamp":"2025-08-05T17:01:45.140Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-05T17:01:45.146Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-05T17:01:45.150Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-05T17:01:45.148Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-05T17:01:45.160Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-05T17:01:45.164Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-05T17:01:45.162Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-05T17:01:45.158Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-05T17:01:45.167Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-05T17:01:45.168Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-05T17:01:45.170Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-05T17:01:45.170Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-05T17:01:45.171Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-05T17:01:45.174Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-05T17:01:45.175Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-05T17:01:45.176Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-05T17:01:45.177Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-05T17:01:46.392Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-05T17:01:46.400Z","level":"INFO","message":"🚀 Tu Tiên Bot đã sẵn sàng!","data":null}
+{"timestamp":"2025-08-05T17:01:46.400Z","level":"INFO","message":"👤 Đăng nhập thành công: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-05T17:01:46.401Z","level":"INFO","message":"🌐 Kết nối với 1 servers","data":null}
+{"timestamp":"2025-08-05T17:01:46.401Z","level":"INFO","message":"👥 Phục vụ 2 người dùng","data":null}
+{"timestamp":"2025-08-05T17:01:46.403Z","level":"INFO","message":"⏰ Đã khởi tạo tất cả periodic tasks","data":null}
+{"timestamp":"2025-08-05T17:01:46.402Z","level":"ERROR","message":"Lỗi khi lấy thống kê:","data":{}}
+{"timestamp":"2025-08-05T17:01:46.401Z","level":"INFO","message":"📡 Ping: -1ms","data":null}
+{"timestamp":"2025-08-05T17:01:46.404Z","level":"INFO","message":"🧹 Cleaned [object Promise] expired cultivation sessions","data":null}
+{"timestamp":"2025-08-05T17:01:46.404Z","level":"ERROR","message":"❌ Lỗi trong startup maintenance:","data":{}}
+{"timestamp":"2025-08-05T17:01:46.404Z","level":"INFO","message":"🔄 Reset cultivation for [object Promise] players","data":null}
+{"timestamp":"2025-08-05T17:01:46.405Z","level":"INFO","message":"✅ Tất cả hệ thống đã được khởi tạo thành công!","data":null}
+{"timestamp":"2025-08-05T17:01:46.404Z","level":"INFO","message":"🔧 Bắt đầu maintenance khởi động...","data":null}
+{"timestamp":"2025-08-05T17:01:46.405Z","level":"INFO","message":"🎮 Bot đang hoạt động và sẵn sàng phục vụ!","data":null}
+{"timestamp":"2025-08-05T17:01:59.519Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-05T17:01:59.523Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-05T17:01:59.522Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-05T17:01:59.524Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-05T17:01:59.528Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-05T17:01:59.527Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-05T17:01:59.526Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-05T17:01:59.531Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-05T17:01:59.529Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-05T17:01:59.535Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-05T17:01:59.535Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-05T17:01:59.536Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-05T17:01:59.538Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-05T17:01:59.539Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-05T17:01:59.533Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-05T17:01:59.540Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-05T17:01:59.544Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-05T17:02:00.735Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-05T17:02:00.763Z","level":"INFO","message":"🚀 Tu Tiên Bot đã sẵn sàng!","data":null}
+{"timestamp":"2025-08-05T17:02:00.763Z","level":"INFO","message":"👤 Đăng nhập thành công: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-05T17:02:00.763Z","level":"INFO","message":"🌐 Kết nối với 1 servers","data":null}
+{"timestamp":"2025-08-05T17:02:00.764Z","level":"INFO","message":"👥 Phục vụ 2 người dùng","data":null}
+{"timestamp":"2025-08-05T17:02:00.764Z","level":"INFO","message":"📡 Ping: -1ms","data":null}
+{"timestamp":"2025-08-05T17:02:00.765Z","level":"ERROR","message":"Lỗi khi lấy thống kê:","data":{}}
+{"timestamp":"2025-08-05T17:02:00.765Z","level":"INFO","message":"⏰ Đã khởi tạo tất cả periodic tasks","data":null}
+{"timestamp":"2025-08-05T17:02:00.766Z","level":"INFO","message":"🔧 Bắt đầu maintenance khởi động...","data":null}
+{"timestamp":"2025-08-05T17:02:00.766Z","level":"INFO","message":"🧹 Cleaned [object Promise] expired cultivation sessions","data":null}
+{"timestamp":"2025-08-05T17:02:00.767Z","level":"INFO","message":"🔄 Reset cultivation for [object Promise] players","data":null}
+{"timestamp":"2025-08-05T17:02:00.767Z","level":"ERROR","message":"❌ Lỗi trong startup maintenance:","data":{}}
+{"timestamp":"2025-08-05T17:02:00.767Z","level":"INFO","message":"✅ Tất cả hệ thống đã được khởi tạo thành công!","data":null}
+{"timestamp":"2025-08-05T17:02:00.768Z","level":"INFO","message":"🎮 Bot đang hoạt động và sẵn sàng phục vụ!","data":null}
+{"timestamp":"2025-08-05T17:02:03.573Z","level":"INFO","message":"Command executed: admin by khanhdz (694925660640116776) in Tiên Đạo Tranh Phong","data":null}
+{"timestamp":"2025-08-05T17:02:03.577Z","level":"ERROR","message":"Error executing command admin:","data":{}}
+{"timestamp":"2025-08-05T17:02:11.298Z","level":"INFO","message":"Command executed: dk by khanhdz (694925660640116776) in Tiên Đạo Tranh Phong","data":null}
+{"timestamp":"2025-08-05T17:02:11.299Z","level":"ERROR","message":"Error in dk command:","data":{}}
+{"timestamp":"2025-08-05T17:02:11.300Z","level":"ERROR","message":"Error executing command dk:","data":{}}
+{"timestamp":"2025-08-05T17:02:20.742Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-05T17:02:20.747Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-05T17:02:20.746Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-05T17:02:20.748Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-05T17:02:20.749Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-05T17:02:20.751Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-05T17:02:20.750Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-05T17:02:20.753Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-05T17:02:20.756Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-05T17:02:20.757Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-05T17:02:20.758Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-05T17:02:20.760Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-05T17:02:20.759Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-05T17:02:20.761Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-05T17:02:20.762Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-05T17:02:20.765Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-05T17:02:20.767Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-05T17:02:21.994Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-05T17:02:22.078Z","level":"INFO","message":"🚀 Tu Tiên Bot đã sẵn sàng!","data":null}
+{"timestamp":"2025-08-05T17:02:22.078Z","level":"INFO","message":"👤 Đăng nhập thành công: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-05T17:02:22.079Z","level":"INFO","message":"📡 Ping: -1ms","data":null}
+{"timestamp":"2025-08-05T17:02:22.078Z","level":"INFO","message":"🌐 Kết nối với 1 servers","data":null}
+{"timestamp":"2025-08-05T17:02:22.081Z","level":"INFO","message":"⏰ Đã khởi tạo tất cả periodic tasks","data":null}
+{"timestamp":"2025-08-05T17:02:22.080Z","level":"ERROR","message":"Lỗi khi lấy thống kê:","data":{}}
+{"timestamp":"2025-08-05T17:02:22.081Z","level":"INFO","message":"🧹 Cleaned [object Promise] expired cultivation sessions","data":null}
+{"timestamp":"2025-08-05T17:02:22.082Z","level":"ERROR","message":"❌ Lỗi trong startup maintenance:","data":{}}
+{"timestamp":"2025-08-05T17:02:22.081Z","level":"INFO","message":"🔄 Reset cultivation for [object Promise] players","data":null}
+{"timestamp":"2025-08-05T17:02:22.082Z","level":"INFO","message":"✅ Tất cả hệ thống đã được khởi tạo thành công!","data":null}
+{"timestamp":"2025-08-05T17:02:22.081Z","level":"INFO","message":"🔧 Bắt đầu maintenance khởi động...","data":null}
+{"timestamp":"2025-08-05T17:02:22.082Z","level":"INFO","message":"🎮 Bot đang hoạt động và sẵn sàng phục vụ!","data":null}
+{"timestamp":"2025-08-05T17:02:22.079Z","level":"INFO","message":"👥 Phục vụ 2 người dùng","data":null}
+{"timestamp":"2025-08-05T17:11:24.187Z","level":"INFO","message":"✅ Loaded command: admin","data":null}
+{"timestamp":"2025-08-05T17:11:24.191Z","level":"INFO","message":"✅ Loaded command: boss","data":null}
+{"timestamp":"2025-08-05T17:11:24.193Z","level":"INFO","message":"✅ Loaded command: bxh","data":null}
+{"timestamp":"2025-08-05T17:11:24.194Z","level":"INFO","message":"✅ Loaded command: dk","data":null}
+{"timestamp":"2025-08-05T17:11:24.200Z","level":"INFO","message":"✅ Loaded command: dotpha","data":null}
+{"timestamp":"2025-08-05T17:11:24.201Z","level":"INFO","message":"✅ Loaded command: hotro","data":null}
+{"timestamp":"2025-08-05T17:11:24.202Z","level":"INFO","message":"✅ Loaded command: item","data":null}
+{"timestamp":"2025-08-05T17:11:24.203Z","level":"INFO","message":"✅ Loaded command: kho","data":null}
+{"timestamp":"2025-08-05T17:11:24.205Z","level":"INFO","message":"🎯 Mission Service initialized with auto-reset","data":null}
+{"timestamp":"2025-08-05T17:11:24.206Z","level":"INFO","message":"✅ Loaded command: nhiemvu","data":null}
+{"timestamp":"2025-08-05T17:11:24.208Z","level":"INFO","message":"⚔️ PvP Service initialized","data":null}
+{"timestamp":"2025-08-05T17:11:24.208Z","level":"INFO","message":"✅ Loaded command: pvp","data":null}
+{"timestamp":"2025-08-05T17:11:24.209Z","level":"INFO","message":"✅ Loaded command: shop","data":null}
+{"timestamp":"2025-08-05T17:11:24.210Z","level":"INFO","message":"✅ Loaded command: tuluyen","data":null}
+{"timestamp":"2025-08-05T17:11:24.211Z","level":"INFO","message":"✅ Loaded event: interactionCreate","data":null}
+{"timestamp":"2025-08-05T17:11:24.212Z","level":"INFO","message":"✅ Loaded event: messageCreate","data":null}
+{"timestamp":"2025-08-05T17:11:24.213Z","level":"INFO","message":"✅ Loaded event: ready","data":null}
+{"timestamp":"2025-08-05T17:11:25.402Z","level":"INFO","message":"🚀 Discord bot login initiated...","data":null}
+{"timestamp":"2025-08-05T17:11:25.420Z","level":"INFO","message":"🚀 Tu Tiên Bot đã sẵn sàng!","data":null}
+{"timestamp":"2025-08-05T17:11:25.420Z","level":"INFO","message":"👤 Đăng nhập thành công: TuTienBot#9720","data":null}
+{"timestamp":"2025-08-05T17:11:25.421Z","level":"INFO","message":"📡 Ping: -1ms","data":null}
+{"timestamp":"2025-08-05T17:11:25.422Z","level":"ERROR","message":"Lỗi khi lấy thống kê:","data":{}}
+{"timestamp":"2025-08-05T17:11:25.422Z","level":"INFO","message":"⏰ Đã khởi tạo tất cả periodic tasks","data":null}
+{"timestamp":"2025-08-05T17:11:25.422Z","level":"INFO","message":"🔧 Bắt đầu maintenance khởi động...","data":null}
+{"timestamp":"2025-08-05T17:11:25.423Z","level":"INFO","message":"🧹 Cleaned [object Promise] expired cultivation sessions","data":null}
+{"timestamp":"2025-08-05T17:11:25.423Z","level":"INFO","message":"🔄 Reset cultivation for [object Promise] players","data":null}
+{"timestamp":"2025-08-05T17:11:25.424Z","level":"ERROR","message":"❌ Lỗi trong startup maintenance:","data":{}}
+{"timestamp":"2025-08-05T17:11:25.424Z","level":"INFO","message":"✅ Tất cả hệ thống đã được khởi tạo thành công!","data":null}
+{"timestamp":"2025-08-05T17:11:25.424Z","level":"INFO","message":"🎮 Bot đang hoạt động và sẵn sàng phục vụ!","data":null}
+{"timestamp":"2025-08-05T17:11:25.420Z","level":"INFO","message":"🌐 Kết nối với 1 servers","data":null}
+{"timestamp":"2025-08-05T17:11:25.421Z","level":"INFO","message":"👥 Phục vụ 2 người dùng","data":null}
